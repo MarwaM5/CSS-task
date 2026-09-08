@@ -3,7 +3,7 @@ h1 {
     
     font-family: Arial, sans-serif;
     font-size: 17.6px;
-    font-weight: bold;
+    
     margin-bottom: 10px;
 
 }
@@ -24,9 +24,11 @@ pre {
 
 .property {
     color: blue;
+    font-weight: bold;
 }
 
 
 .value {
     color: green;
+    font-weight: bold;
 }
