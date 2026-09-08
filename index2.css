@@ -1,0 +1,28 @@
+
+.title {
+    color: orange;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 40px;
+}
+
+
+.heading2 {
+    text-align: right;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.para1 {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: black;
+}
+
+.para2 {
+    text-align: right;
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+    color: #333333;
+}
