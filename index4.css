@@ -50,8 +50,20 @@ article p {
 .dashed-box {
     border: 2px dashed red;
     padding: 8px;
+    
+    
+    
+
+    
 }
 
 .purple{
     color: purple;
+}
+
+.big-box{
+
+    border: 2px dashed ;
+
+    
 }
