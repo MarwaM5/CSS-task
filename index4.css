@@ -1,0 +1,57 @@
+
+body {
+    background-color: #fdf3ec;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+
+h1 {
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+
+article {
+    background-color: #ffffff;
+    border: 1px solid #333333;
+    max-width: 550px;
+    padding: 15px 25px;
+    margin-bottom: 20px;
+}
+
+
+article h2 {
+    color: #2e1a5e;
+    font-family: Georgia, serif;
+}
+
+
+article p {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #222222;
+}
+
+
+.ipsum {
+    background-color: #efcaa0;
+    
+    padding: 1px 4px;
+}
+
+
+.quis {
+    background-color: #eee458;
+    padding: 1px 4px;
+}
+
+
+.dashed-box {
+    border: 2px dashed red;
+    padding: 8px;
+}
+
+.purple{
+    color: purple;
+}
